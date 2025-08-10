@@ -1,0 +1,8 @@
+.vscode
+do.dSYM/Contents
+print temp table.dSYM
+print temp table
+print temp table.c
+add.asm
+addup.asm
+my_code.asm
