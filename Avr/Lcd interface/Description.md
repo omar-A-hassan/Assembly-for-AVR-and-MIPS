@@ -1,0 +1,2 @@
+## AVR LCD Hello World (ATmega32)
+AVR assembly program for ATmega32 that displays "Hello World" on a 16x2 LCD using 4-bit interface mode. Demonstrates complete LCD initialization sequence, character display from program memory, and proper timing with various delay routines. Classic embedded "Hello World" example showcasing fundamental LCD interfacing techniques on AVR microcontrollers.
