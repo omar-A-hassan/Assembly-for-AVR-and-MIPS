@@ -3,7 +3,7 @@
 This repository showcases my exploration of assembly programming across two different architectures, combining formal coursework with self-directed study.
 
 ## AVR (ATmega32A)
-Contains assembly programs developed during lectures focusing on the ATmega32A microcontroller. These examples demonstrate fundamental embedded programming concepts including:
+Contains assembly programs developed during lectures from my Microprocessors and interfacing course focusing on the ATmega32A microcontroller. These examples demonstrate fundamental embedded programming concepts including:
 
 - **LCD Interfacing**: 4-bit mode LCD control with "Hello World" display and real-time temperature monitoring
 - **GPIO Operations**: Digital I/O bridging between ports and basic pin manipulation
